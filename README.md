@@ -1,4 +1,6 @@
 # Exclusive-Google-Translate-plugin-for-lazy-people
+![image](https://github.com/user-attachments/assets/bde3454c-e5da-4664-8d33-3d1e54b820eb)
+
 ## 使用方法
 ### 1.下载并减压压缩包到本地
 ![image](https://github.com/user-attachments/assets/65254160-bd7a-4b69-afb1-dabdfda71417)
